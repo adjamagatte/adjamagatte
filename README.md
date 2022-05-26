@@ -8,12 +8,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning 
 -->
 
-- 👀 I’m interested in modelisation, prediction, datavisualisation,Deep learning...
+- 👀 I’m interested in Data science and Artificial Intelligence
 - 🔭 I’m currently working on how to Build a model for job relevance classification with NLP
-- 🌱 I’m currently learning Data science and Artificial Intelligence
-- 👯 I'm looking to collaborate to enrich my data science and AI skills 
+- 👯 I'm looking to collaborate to enrich my Data Science and AI skills 
 - 📫 You can reach me at adjamagatte16@gmail.com or at www.linkedin.com/in/adjamagattefall
 
 

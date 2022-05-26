@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on how to Build a model for job relevance classification with NLP
 - 🌱 I’m currently learning Data science and Artificial Intelligence
 - 👯 I'm looking to collaborate to enrich my data science and AI skills 
-- 📫 You can reach me at adjamagatte16@gmail.com
+- 📫 You can reach me at adjamagatte16@gmail.com or at www.linkedin.com/in/adjamagattefall
 
 

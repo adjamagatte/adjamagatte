@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 
 -->
 
-- 👀 I’m interested in Data science and Artificial Intelligence
+- 👀 I’m interested in Data engineering, Data science and Artificial Intelligence
 - 🔭 I’m currently working on how to Build a model for job relevance classification with NLP
-- 👯 I'm looking to collaborate to enrich my Data Science and AI skills 
+- 👯 I'm looking to collaborate to enrich my Data engineering and AI skills 
 - 📫 You can reach me at adjamagatte16@gmail.com or at www.linkedin.com/in/adjamagattefall
 
 
